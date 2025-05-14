@@ -1,0 +1,23 @@
+#pragma once
+#include <iostream>
+using namespace std;
+class Persona {
+	//atributos 
+protected: string nombres, apellidos, direccion, fecha_nacimiento;
+		 int telefeno = 0, id_tipo_sangre = 0;
+    //constructor
+Persona(){}
+Persona(string nom, string ape, string dir, int tel, string fn, int id_ts) {
+	nombres = nom;
+	apellidos = ape;
+	direccion = dir;
+	telefeno = tel;
+	fecha_nacimiento = fn;
+	id_tipo_sangre = id_ts;
+}
+
+
+
+};
+
+

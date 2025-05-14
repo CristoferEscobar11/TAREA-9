@@ -1,0 +1,20 @@
+﻿  estudiante.cpp
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(52,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "estudiante.cpp")
+  
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(102,74): error C2065: 'id_e': identificador no declarado
+  (compilando archivo de origen "estudiante.cpp")
+  
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(99,27): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "estudiante.cpp")
+  
+  main.cpp
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(52,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(102,74): error C2065: 'id_e': identificador no declarado
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\HOUSE10\Desktop\PROGRAMACION\SQL-C++\Escuela\VISTA\estudiante.h(99,27): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "main.cpp")
+  
